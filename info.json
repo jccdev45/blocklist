@@ -4,7 +4,7 @@
   "authors": [
     "jccdev45"
   ],
-  "homepage": "https://github.com/Chatterino/Chatterino2",
+  "homepage": "https://github.com/jccdev45/blocklist",
   "tags": [
     "moderation",
     "blocklist",
@@ -18,6 +18,9 @@
     },
     {
       "type": "FilesystemWrite"
+    },
+    {
+      "type": "Network"
     }
   ]
 }
