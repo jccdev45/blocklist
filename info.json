@@ -1,0 +1,23 @@
+{
+  "name": "Community Blocklist",
+  "description": "A plugin to maintain a community blocklist for Chatterino.",
+  "authors": [
+    "jccdev45"
+  ],
+  "homepage": "https://github.com/Chatterino/Chatterino2",
+  "tags": [
+    "moderation",
+    "blocklist",
+    "community"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "permissions": [
+    {
+      "type": "FilesystemRead"
+    },
+    {
+      "type": "FilesystemWrite"
+    }
+  ]
+}
